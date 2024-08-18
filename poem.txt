@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and the ponies
 
 Purple
 Pink
@@ -6,6 +6,7 @@ Orange
 Blue
 Green
 Unicorn
+ponies
 Yellow
 Red
 These are the colours of the rainbow and the Unicorn.
